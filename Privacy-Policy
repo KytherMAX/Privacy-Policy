@@ -1,0 +1,8 @@
+This extension processes browsing URLs locally in the user's browser
+to detect specific patterns defined by the user.
+
+No browsing data is collected, stored, transmitted, or shared.
+
+All processing happens locally within the browser.
+
+The extension does not communicate with external servers.
