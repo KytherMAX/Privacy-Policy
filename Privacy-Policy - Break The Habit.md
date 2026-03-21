@@ -1,6 +1,6 @@
 # Privacy Policy – Stop Stalking - Break the Habit
 
-**Last updated:** 2026
+**Last updated:** March 21, 2026
 
 Stop Stalking is a browser extension designed to help users avoid checking specific websites, profiles, or content that they have chosen to block.
 
@@ -27,8 +27,9 @@ The extension may:
 
 * Compare URLs against user-defined keywords
 * Detect matching text in input fields (such as search bars)
+* In Sensei Mode, temporarily scan visible text on a page (such as usernames, messages, or suggestions) to detect blocked keywords
 
-This processing is done **in real time and is never stored, recorded, or transmitted**.
+This processing happens **locally in real time** and is never stored, recorded, or transmitted.
 
 ## 3. Data Sharing
 
@@ -38,7 +39,7 @@ No data is sent to external servers, APIs, or services.
 
 ## 4. Data Storage
 
-The extension may store user-defined keywords or rules locally using the browser’s storage.
+The extension may store user-defined keywords, settings, and an optional hashed password locally using the browser’s storage.
 
 This data:
 
@@ -54,8 +55,7 @@ All scripts and logic are packaged within the extension and run locally.
 
 ## 6. Purpose Limitation
 
-The extension only uses data necessary to provide its core functionality:
-blocking access to user-defined content.
+The extension only uses data necessary to provide its core functionality: blocking access to user-defined content.
 
 ## 7. Security
 
