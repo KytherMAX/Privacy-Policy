@@ -1,8 +1,7 @@
-This extension processes browsing URLs locally in the user's browser
-to detect specific patterns defined by the user.
+This extension processes page URLs and visible page text locally in the user's browser to detect specific keywords defined in a local rule list.
 
 No browsing data is collected, stored, transmitted, or shared.
 
-All processing happens locally within the browser.
+All processing happens locally within the user's browser.
 
 The extension does not communicate with external servers.
